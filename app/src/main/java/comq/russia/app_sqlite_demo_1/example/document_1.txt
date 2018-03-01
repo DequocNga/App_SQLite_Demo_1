@@ -1,0 +1,20 @@
+here is an example demonstrating the use of SQLite database.
+It creates a basic contacts applications that allows insertion,
+deletion, and modification of contacts.
+
+1. modify src/MainActivity.java file to get references of
+all the XML components and populate the contacts on listView
+2. create new src/DBHelper.java that will manage the database work
+3. create a new Activity as DisplayContact.java that will
+display the contact on the screen
+4. modify the res/layout/activity main to add respective XML
+components
+5. modify the res/layout/activity_display_contact.xml to
+add respective XML components
+6. modify the res/value/string.xml to add necessary string components
+7. modify the res/menu/display contact.xml to add necessary menu
+components
+8. create a new menu as res/menu/mainmenu.xml to add the insert
+contact option
+9. run the application and choose a running android device
+and install the application on it and verify the results
